@@ -41,3 +41,7 @@ Favorite subject should be a multi select dropdown which loads subjects from JS.
 Each newly added student should be appended after the last added.
 
 IF the user is trying to add a Student with age <= 12 prevent the insert and notify the user that only Students with age of 12 > are admitted.
+
+## How to contribute  
+
+Contribution and feedback is encouraged and always welcome.
